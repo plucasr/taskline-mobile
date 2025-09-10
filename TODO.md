@@ -4,7 +4,7 @@ Day 1 = 2026-11-07. Check off as you go; commit with `./commit.sh` referencing t
 
 ## Phase 1 — Foundations (day 1–14)
 - [x] D1  Clean template scaffold: remove demo game code, CI green
-- [ ] D2  Folder structure: screens/, components/, lib/api
+- [x] D2  Folder structure: screens/, components/, lib/api
 - [ ] D3  API client for taskline-api (typed fetch wrapper, JWT)
 - [ ] D4  Auth screen: login/signup wired to JWT endpoints
 - [ ] D5  Token storage (secure storage preference)
